@@ -1,0 +1,32 @@
+aid: animefacts
+name: AnimeFacts
+description: "Anime Facts (over 100+)"
+url: https://chandan-02.github.io/anime-facts-rest-api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: AnimeFacts
+    description: "Anime Facts (over 100+)"
+    humanURL: https://chandan-02.github.io/anime-facts-rest-api/
+    baseURL: https://chandan-02.github.io/anime-facts-rest-api/
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://chandan-02.github.io/anime-facts-rest-api/
+common:
+  - type: Website
+    url: https://chandan-02.github.io/anime-facts-rest-api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
