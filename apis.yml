@@ -39,7 +39,6 @@ apis:
   - name: AnimeFacts
     description: "Anime Facts (over 100+)"
     humanURL: https://chandan-02.github.io/anime-facts-rest-api/
-    baseURL: https://chandan-02.github.io/anime-facts-rest-api/
     tags:
       - Anime
     properties:
